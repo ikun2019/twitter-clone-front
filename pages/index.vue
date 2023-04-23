@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <h1 class="text-red-500">Twitter Clone</h1>
 </template>
 
 <script>
