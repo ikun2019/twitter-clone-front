@@ -99,6 +99,6 @@
   </div>
 </template>
 
-<script>
+<script setup>
 const transition = 'transition ease-in-out duration-350';
 </script>

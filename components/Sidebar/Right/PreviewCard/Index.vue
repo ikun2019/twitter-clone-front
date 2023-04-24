@@ -1,5 +1,5 @@
 <template>
-  <div class="m-2 overflow-hidden border bg-gray-50 rounded-2xl dark:bg-dim-700" :class="twitterBorderColor">
+  <div class="m-2 overflow-hidden border bg-gray-50 rounded-2xl dark:bg-dim-700 border-white-200 dark:border-gray-700">
     <h1 class="p-3 text-xl font-extrabold text-gray-900 border-b dark:text-white">
       {{ title }}
     </h1>
